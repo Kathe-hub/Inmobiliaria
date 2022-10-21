@@ -1,4 +1,4 @@
-# Inmobiliaria
+# Portal Inmobiliaria
 ## Propiedades en diferentes ambientes
 
 Creación de sitio web orientado al uso de filtrado mediante el método de arreglo .filter para mostrar la cantidad de habitaciones y metros cuadrados de cada propiedad.
