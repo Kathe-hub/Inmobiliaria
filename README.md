@@ -10,4 +10,4 @@ Tecnologías utilizadas:
 - _**JavaScript**_
 
 
-Puedes visualizar este proyecto dando click al siguiente link 
+Puedes visualizar este proyecto dando click al siguiente link https://kathe-hub.github.io/Inmobiliaria/
